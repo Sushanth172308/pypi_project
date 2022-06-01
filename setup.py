@@ -14,7 +14,7 @@ setup(
     description="Classifies a text as Spam or Ham",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/bnriiitb/spam-classifier",
+    url="https://github.com/Sushanth172308/pypi_project",
     author="sushanth",
     author_email="sushant172308@gmail.com",
     license="MIT",
